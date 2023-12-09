@@ -8,7 +8,7 @@ function App() {
           <img src={logo} height={100} width={100} alt="" />
         </div>
 
-        <div>frontend developer</div>
+        <div className="text-xl text-white">frontend developer</div>
       </main>
     </>
   );
