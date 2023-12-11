@@ -1,4 +1,5 @@
 import logo from "../public/2.png";
+import rotatingCircle from "../public/1.png";
 function App() {
   return (
     <>
@@ -9,6 +10,9 @@ function App() {
         </div>
 
         <div className="text-xl text-white">frontend developer</div>
+        <div>
+          <img src={rotatingCircle} height={300} width={300} alt="" />
+        </div>
       </main>
     </>
   );
