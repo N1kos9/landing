@@ -4,9 +4,9 @@ function App() {
   return (
     <>
       <main>
-        <div className="text-white flex items-center p-4 justify-between ">
+        <div className="text-white flex items-center p-4 justify-evenly">
           <h1 className="text-2xl">Murariu Nikos</h1>
-          <img src={logo} height={100} width={100} alt="" />
+          <img src={logo} height={70} width={70} alt="" />
         </div>
 
         <div className="text-xl text-white">frontend developer</div>
