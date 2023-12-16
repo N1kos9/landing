@@ -10,8 +10,8 @@ function App() {
         </div>
 
         <div className="text-4xl text-white mt-60">frontend developer</div>
-        <div className="absolute bottom-0">
-          <img src={rotatingCircle} height={300} width={300} alt="" />
+        <div className="absolute bottom-10">
+          <img src={rotatingCircle} height={200} width={200} alt="" />
         </div>
       </main>
     </>
