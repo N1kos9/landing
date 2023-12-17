@@ -14,7 +14,7 @@ function App() {
         </div>
         <div className="absolute bottom-10 text-center flex justify-center items-center">
           <img
-            className=""
+            className="flex justify-center items-center"
             src={rotatingCircle}
             height={200}
             width={200}
