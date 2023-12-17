@@ -8,7 +8,7 @@ export default {
           to: { transform: "rotate(360deg)" },
         },
         animation: {
-          rotate: "linear 15s infinite",
+          rotate: "linear 15s ease-in-out infinite",
         },
       },
     },
