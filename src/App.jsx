@@ -12,7 +12,7 @@ function App() {
         <div className="text-white md:text-9xl text-5xl mt-60 text-center">
           frontend developer
         </div>
-        <div className="absolute bottom-10 text-center flex justify-center items-center">
+        <div className="mt-40 bottom-10 text-center flex justify-center items-center">
           <img
             className=""
             src={rotatingCircle}
