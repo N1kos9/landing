@@ -9,9 +9,17 @@ function App() {
           <img src={logo} height={70} width={70} alt="" />
         </div>
 
-        <div className="text-4xl text-white mt-60">frontend developer</div>
-        <div className="absolute bottom-10">
-          <img src={rotatingCircle} height={200} width={200} alt="" />
+        <div className="text-white md:text-9xl text-5xl mt-60 text-center">
+          frontend developer
+        </div>
+        <div className="absolute bottom-10 text-center flex justify-center items-center">
+          <img
+            className=""
+            src={rotatingCircle}
+            height={200}
+            width={200}
+            alt=""
+          />
         </div>
       </main>
     </>
