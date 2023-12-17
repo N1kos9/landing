@@ -2,7 +2,16 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      keyframes: {
+        rotating: {
+          to: { transform: "rotate(360deg)" },
+        },
+        animation: {
+          rotate: "linear 15s infinite",
+        },
+      },
+    },
   },
   plugins: [],
 };
