@@ -9,5 +9,6 @@ body {
   font-size: 40px;
   text-shadow: -1px 1px 0 #ffffff, 1px 1px 0 #ffffff, 1px -1px 0 #ffffff,
     -1px -1px 0 #ffffff;
-  font-size: 3rem;
+  font-size: 6rem;
+  opacity: 0.5;
 }
