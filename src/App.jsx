@@ -12,7 +12,7 @@ function App() {
         </div>
 
         <div className="text-white md:text-9xl text-5xl mt-60 text-center">
-          <h2 className="background">frontend developer</h2>
+          <h2 className="background">Murariu Nikos</h2>
           <h1>frontend developer</h1>
         </div>
         <div className="mt-40 bottom-10 text-center flex justify-center items-center">
