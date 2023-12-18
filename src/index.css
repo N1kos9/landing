@@ -7,10 +7,13 @@ body {
 .background {
   color: black;
   font-size: 40px;
-  text-shadow: -1px 1px 0 #ffffff, 1px 1px 0 #ffffff, 1px -1px 0 #ffffff,
-    -1px -1px 0 #ffffff;
+  text-shadow: -1px 1px 0 #ffffffb0, 1px 1px 0 #ffffffb0, 1px -1px 0 #ffffffb0,
+    -1px -1px 0 #ffffffb0;
   font-size: 6rem;
   opacity: 0.5;
   position: absolute;
   text-align: center;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
