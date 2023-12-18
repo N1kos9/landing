@@ -11,4 +11,6 @@ body {
     -1px -1px 0 #ffffff;
   font-size: 6rem;
   opacity: 0.5;
+  position: absolute;
+  text-align: center;
 }
